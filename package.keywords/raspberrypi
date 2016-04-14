@@ -1,0 +1,6 @@
+media-libs/raspberrypi-userland		~arm
+
+sys-boot/raspberrypi-firmware		~arm
+sys-boot/raspberrypi-mkimage		~arm
+
+sys-kernel/genkernel-next		~arm

@@ -1,0 +1,4 @@
+dev-libs/re2		~arm
+dev-libs/jsoncpp	~arm
+
+www-client/chromium	~arm

@@ -1,0 +1,7 @@
+gnome-base/gvfs		udisks
+
+sys-apps/systemd	gudev
+sys-auth/consolekit	policykit
+sys-fs/udev		gudev
+
+x11-libs/libfm		gtk

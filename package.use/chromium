@@ -1,0 +1,5 @@
+media-libs/harfbuzz	icu
+
+dev-libs/libxml2	icu
+
+sys-libs/zlib		minizip
